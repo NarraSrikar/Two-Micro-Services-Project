@@ -1,0 +1,15 @@
+
+[
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(£§âžùÿÿÿÿ
+E
+java:S19058"*Remove this unnecessary cast to "Account".(à¿àšþÿÿÿÿ
+P	java:S125F"<This block of commented-out lines of code should be removed.(Ã£Å
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê™ê)
+o
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(¨©æ€
+o
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿äÉò
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÄ‹ó
+@
+java:S5411?"*Use the primitive boolean expression here.(Ô°­€

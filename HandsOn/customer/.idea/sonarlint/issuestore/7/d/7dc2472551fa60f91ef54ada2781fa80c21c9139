@@ -1,0 +1,8 @@
+
+V	java:S125!"<This block of commented-out lines of code should be removed.(‚—üñüÿÿÿÿ
+=
+java:S1905'"'Remove this unnecessary cast to "List".(¾Æ‘³
+M
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(„§Û›
+T
+java:S3655,"7Call "Optional#isPresent()" before accessing the value.(„§Û›8¥ˆ¾Æñ/

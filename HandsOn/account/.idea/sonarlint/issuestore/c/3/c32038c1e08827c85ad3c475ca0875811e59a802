@@ -1,0 +1,13 @@
+
+[
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(®Æâ¨ıÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(†Óú»
+X	java:S1256"<This block of commented-out lines of code should be removed.(İ˜ÏÂ8„ñÁñ/
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ†ÈŠüÿÿÿÿ
+t
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(Š£õùÿÿÿÿ
+o
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(íáÚô
+n
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(é
